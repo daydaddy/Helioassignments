@@ -1,0 +1,32 @@
+<movies>
+<movie>
+    <title>braveheart</title>
+    <characters>
+    <character>
+        <name>mel gibson</name>
+        <role>william wallace</role>
+    </character>
+    <character>
+        <name>james robinson</name>
+        <role>young william</role>
+    </character>
+    <character>
+        <name>sophie marceau</name>
+        <role>princess isabelle</role>
+    </character>    
+    <character>
+        <name>peter hanly</name>
+        <role>prince edward</role>
+    </character>
+    <character>
+        <name>james cosmo</name>
+        <role>campbell</role>
+    </charater>    
+    <character>
+        <name>sean lawlor</name>
+        <role>maicolm wallace</role>
+    </character>
+    </characters>
+</movie>
+</movies>
+    
